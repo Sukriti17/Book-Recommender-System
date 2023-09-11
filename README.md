@@ -1,2 +1,4 @@
 # Book-Recommender-System
-The purpose of a book recommendation system is to predict buyer’s interest and recommend books to them accordingly. In the section below, I will introduce you to a machine learning project on the book recommendation system using Python.
+This project employs collaborative filtering techniques, utilizing user-item interactions and latent factor models to provide highly personalized book recommendations.
+
+The system is built on a Python-based stack, making use of libraries such as NumPy and Pandas for data preprocessing, and Scikit-learn for implementing recommendation algorithms. The underlying dataset consists of user ratings and book metadata, carefully engineered to capture nuanced user preferences.
